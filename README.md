@@ -1,3 +1,2 @@
 # qalight
 test repo
-remote
